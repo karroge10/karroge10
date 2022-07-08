@@ -41,7 +41,6 @@
 [<img align="left" alt="https://www.facebook.com/egor.ka.5055/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="https://www.instagram.com/egokabs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[![karroge10's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karroge10)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://egorkabantsov.netlify.app/
 [vk]: https://vk.com/egor_kabantsov

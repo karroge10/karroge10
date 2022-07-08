@@ -12,7 +12,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <br/>
-
 ## About me:
 
 - ⚡ I'm a fullstack developer mainly specializing in JavaScript, React, HTML5, CSS3, Node.js, MySQL and PostgreSQL.

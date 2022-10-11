@@ -1,12 +1,5 @@
 # Hi there, I'm Egor 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" alt="karroge10 Github Stats" src="https://github-readme-stats-mu-three-52.vercel.app/api?username=karroge10&show_icons=true&theme=dark"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="47%" alt="karroge10 Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroge10&layout=compact"/>
-</a>
-
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

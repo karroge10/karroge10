@@ -10,7 +10,7 @@
 - ⚡ Fullstack Developer mainly specializing in JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL and TypeScript.
 - 👀 Interested in Fullstack Developement, Blockchain, AI, Movies, Videogames and Racing.
 - 🌱 Learning Angular, PostgreSQL and TypeScript.
-- 🎓 Bachelor's degree in "Automation Of Technological Processes and Production" from Saint-Petersburg State Institute of Technology.
+- 🎓 Bachelor's degree in "Automation Of Technological Processes and Production" from St. Petersburg State Institute of Technology.
 - 🧑‍💻 Currently working as a Frontend Developer since August 2022.
 - 📫 How to reach me: egorkabantsov@gmail.com / https://egorkabantsov.netlify.app
 

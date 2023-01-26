@@ -32,7 +32,7 @@
 
 [<img align="left" alt="egorkabantsov.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://vk.com/egor_kabantsov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vk.svg"/>][VK]
-[<img align="left" alt="https://www.linkedin.com/in/egorkabantsov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linedin]
+[<img align="left" alt="https://www.linkedin.com/in/egorkabantsov" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [website]: https://egorkabantsov.netlify.app/

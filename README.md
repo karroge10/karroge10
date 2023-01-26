@@ -7,8 +7,8 @@
 
 ## About me:
 
-- ⚡ Fullstack developer mainly specializing in JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL and TypeScript.
-- 👀 Interested in fullstack developement, blockchain, AI, movies and videogames.
+- ⚡ Fullstack Developer mainly specializing in JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL and TypeScript.
+- 👀 Interested in Fullstack Developement, Blockchain, AI, Movies, Videogames and Racing.
 - 🌱 Learning Angular, PostgreSQL and TypeScript.
 - 🎓 Bachelor's degree in "Automation Of Technological Processes and Production" from Saint-Petersburg State Institute of Technology.
 - 🧑‍💻 Currently working as a Frontend Developer since August 2022.

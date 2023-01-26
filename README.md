@@ -7,7 +7,7 @@
 
 ## About me:
 
-- ⚡ I'm a fullstack developer mainly specializing in JavaScript, React, HTML5, CSS3, Node.js, MySQL and PostgreSQL.
+- ⚡ I'm a fullstack developer mainly specializing in JavaScript, React, HTML5, CSS3, Node.js, PostgreSQL and TypeScript.
 - 👀 I’m interested in fullstack developement, blockchain, AI, movies and videogames.
 - 🌱 I’m currently learning Angular, PostgreSQL and TypeScript.
 - 📫 How to reach me: egorkabantsov@gmail.com / https://egorkabantsov.netlify.app/
@@ -38,5 +38,4 @@
 
 [website]: https://egorkabantsov.netlify.app/
 [vk]: https://vk.com/egor_kabantsov
-[instagram]: https://www.instagram.com/egokabs
-[facebook]: https://www.facebook.com/egor.ka.5055/
+[linkedin]: https://www.linkedin.com/in/egorkabantsov

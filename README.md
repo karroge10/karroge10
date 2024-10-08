@@ -35,4 +35,4 @@
 <br/>
 
 ## Connect with me:
-[egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com) / [website](https://egorkabantsov.netlify.app) / [linkedin](https://www.linkedin.com/in/egorkabantsov/) / [telegram](https://t.me/karroge)
+ [Website](https://egorkabantsov.netlify.app) / [Linkedin](https://www.linkedin.com/in/egorkabantsov/) / [Telegram](https://t.me/karroge) / [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)

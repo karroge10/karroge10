@@ -1,36 +1,57 @@
-# Hi there, I'm Egor 👋
+# Hi there, I'm Egor Kabantsov 👋
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<p align="left">
+  <a href="https://egorkabantsov.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-egorkabantsov.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/egorkabantsov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/karroge">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
+---
 
-## About me:
+### 👨‍💻 About Me
 
-- ⚡ Frontend Developer mainly specializing in JavaScript, React, HTML5, CSS3, Node.js, Express, PostgreSQL and TypeScript.
+I am a **Fullstack Developer** with a passion for building robust, high-performance applications. I specialize in the modern web ecosystem (React/Next.js) and cross-platform mobile development (React Native).
 
-- 👀 Interested in Fullstack Developement, Blockchain, AI, Movies, Videogames and Racing.
+- 🏢 **Currently:** Scaling systems at Vertikal Ltd. 
+- 🚀 **Personal Projects:** Recently shipped **Cloudy**, a minimalist gratitude journal for Android.
+- 🎓 **Background:** Bachelor's Degree in Automation of Technological Processes & Production.
+- 🧠 **Interests:** Exploring the junction of **AI/ML** (Hugging Face, LightGBM) and high-utility software.
 
-- 🎓 Bachelor's degree in "Automation Of Technological Processes and Production" from St. Petersburg State Institute of Technology.
+---
 
-- 🧑‍💻 Currently working as a Frontend Developer since August 2022.
+### 🛠️ Tech Stack & Tools
 
-- 📫 How to reach me: egorkabantsov@gmail.com / https://egorkabantsov.netlify.app
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `TypeScript` `React` `Next.js` `Tailwind CSS` `shadcn/ui` `Ant Design` |
+| **Mobile** | `React Native` `Expo` `NativeWind` |
+| **Backend** | `Node.js` `Nest.js` `Express.js` `Python (FastAPI)` |
+| **Database** | `PostgreSQL` `Supabase` `Prisma` `MongoDB` `MariaDB` |
+| **AI / Data** | `TensorFlow` `LightGBM` `Hugging Face` `Computer Vision` |
+| **DevOps & Extras** | `Docker` `Git` `PostHog` `EAS` `CI/CD` |
 
-## Languages and Tools:
+---
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+### 📈 GitHub Stats
 
-<br/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karroge10&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroge10&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-## Connect with me:
- [Website](https://egorkabantsov.netlify.app) / [Linkedin](https://www.linkedin.com/in/egorkabantsov/) / [Telegram](https://t.me/karroge) / [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)
+---
+
+### 📫 Connect with me:
+
+*   **Email:** [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)
+*   **Website:** [egorkabantsov.vercel.app](https://egorkabantsov.vercel.app)
+*   **Location:** Saint Petersburg, Russia (Remote / Relocation)
+
+---
+*“Building tools that solve problems, one commit at a time.”*

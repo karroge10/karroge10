@@ -41,8 +41,8 @@ I am a **Fullstack Developer** with a passion for building robust, high-performa
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karroge10&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroge10&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karroge10&show_icons=true&theme=react&hide_border=false" alt="Egor's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karroge10&layout=compact&theme=react&hide_border=false" alt="Top Languages" height="170" />
 </p>
 
 ---
@@ -51,7 +51,9 @@ I am a **Fullstack Developer** with a passion for building robust, high-performa
 
 *   **Email:** [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)
 *   **Website:** [egorkabantsov.vercel.app](https://egorkabantsov.vercel.app)
-*   **Location:** Saint Petersburg, Russia (Remote / Relocation)
+*   **Linkedin:** [egorkabantsov.vercel.app]([https://egorkabantsov.vercel.app](https://www.linkedin.com/in/egorkabantsov/))
+*   **Telegram:** [egorkabantsov.vercel.app]([https://egorkabantsov.vercel.app](https://t.me/karroge))
+*   **Location:** Tbilisi, Georgia (Remote / Relocation)
 
 ---
 *“Building tools that solve problems, one commit at a time.”*

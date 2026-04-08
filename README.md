@@ -1,8 +1,16 @@
 # Hi there, I'm Egor Kabantsov 👋
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-egorkabantsov.vercel.app-blue?style=flat-square&logo=vercel)](https://egorkabantsov.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egorkabantsov/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/karroge)
+<p align="left">
+  <a href="https://egorkabantsov.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-egorkabantsov.vercel.app-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/egorkabantsov/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/karroge">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
@@ -35,7 +43,7 @@ I am a **Fullstack Developer** with a passion for building robust, high-performa
 *   **Email:** [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)
 *   **Website:** [egorkabantsov.vercel.app](https://egorkabantsov.vercel.app)
 *   **Linkedin:** [https://www.linkedin.com/in/egorkabantsov](https://www.linkedin.com/in/egorkabantsov)
-*   **Telegram:** [https://t.me/karroge](https://t.me/karroge))
+*   **Telegram:** [t.me/karroge](https:/t.me/karroge)
 *   **Location:** Tbilisi, Georgia (Remote / Relocation)
 
 ---

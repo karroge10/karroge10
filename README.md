@@ -1,7 +1,7 @@
 # Hi there, I'm Egor Kabantsov 👋
 
 **Full Stack Software Engineer** based in Tbilisi, Georgia  
-I build web apps, mobile apps, APIs, SaaS products, dashboards, and tools that stay maintainable after real users start depending on them.
+I build web apps, mobile apps, APIs, SaaS products, dashboards, and maintainable tools for real users.
 
 <p align="left">
   <a href="https://egorkabantsov.vercel.app">

@@ -70,5 +70,3 @@ I'm a **Full Stack Software Engineer** with 5+ years of experience building prod
 - **Email:** [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)
 
 ---
-
-_✨ Building practical tools that solve real problems._

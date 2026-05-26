@@ -1,119 +1,77 @@
-# Hi, I'm Egor Kabantsov 👋
+# Hi there, I'm Egor Kabantsov 👋
 
-**Full Stack Software Engineer** based in Tbilisi, Georgia.  
-I build web and mobile applications, APIs, SaaS products, analytics dashboards, and production platforms.
-
-I have 5+ years of experience working across the full stack, with a strong focus on clear UI behavior, scalable architecture, maintainable code, and owning features end-to-end — from product requirements to production support.
+**Full Stack Software Engineer** based in Tbilisi, Georgia 🇬🇪  
+I build web apps, mobile apps, APIs, SaaS products, dashboards, and tools that stay maintainable after real users start depending on them.
 
 <p align="left">
   <a href="https://egorkabantsov.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-egorkabantsov.vercel.app-black?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/egorkabantsov/">
-    <img src="https://img.shields.io/badge/LinkedIn-Egor%20Kabantsov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/egorkabantsov">
-    <img src="https://img.shields.io/badge/Telegram-egorkabantsov-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:egorkabantsov@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## About me
+### 👨‍💻 About Me
 
-- Currently building and scaling production systems at **Vertikal**
-- Founder & Developer at **NoKo Labs**, where I build and release mobile apps, SaaS products, data tools, and automation platforms
-- Built applications used across **100+ international locations**
-- Developed platforms serving **10k+ users**
-- Shipped public Android releases to **Google Play**
-- Interested in practical software: clean interfaces, useful automation, scalable systems, and data-heavy products
+I'm a **Full Stack Software Engineer** with 5+ years of experience building production web and mobile applications.
 
----
-
-## Experience highlights
-
-### Vertikal — Full Stack Developer
-
-At Vertikal, I work on production applications used across global service centers.
-
-- Scaled and maintained a React + Node.js production application deployed across **100+ global service centers**
-- Led development of a training platform using **React, Nest.js, and TypeScript**
-- Built a test-based loyalty system used by **10k+ users**
-- Own full-stack feature delivery across UI, backend logic, database work, testing, deployment, and production support
-
-### NoKo Labs — Founder & Developer
-
-NoKo Labs is my product studio for building apps, SaaS products, automation tools, and data-focused projects.
-
-- Shipped an Android app built with **React Native** and **Expo** to Google Play
-- Integrated **Supabase auth/sync**, encrypted storage, PostHog analytics, streaks, push notifications, and i18n
-- Built a memory-efficient Python ETL pipeline that processes **19.3M+ FAERS medical reports** from 20+ years into an optimized SQLite database under 5GB
-- Developed a clean **Next.js dashboard** for exploring processed medical report data
-- Built a production-grade personal finance platform with **Next.js, Clerk, Prisma, PostgreSQL**, and a separate **Python/Flask PDF-processing service** deployed on Render
+- 🏢 Currently building and maintaining enterprise apps at **Vertikal**
+- 🌍 Scaled systems used across **100+ international service centers**
+- 🎓 Built a training platform with a loyalty system used by **10k+ users**
+- 🚀 Founder & Developer at **NoKo Labs**
+- 📱 Shipped Android apps to **Google Play** with React Native + Expo
+- 🧠 Interested in clean UI behavior, scalable systems, data-heavy tools, and practical automation
+- 🌎 Open to **remote roles** and **relocation**, especially EU-focused opportunities
 
 ---
 
-## Tech stack
+### 🛠️ Tech Stack & Tools
 
-### Frontend & Mobile
-
-`TypeScript` `React` `React Native` `Next.js` `Angular` `Expo`  
-`Tailwind CSS` `shadcn/ui` `Ant Design` `D3.js` `HTML5` `CSS3`
-
-### Backend
-
-`Node.js` `Nest.js` `Express.js` `Python` `FastAPI` `Flask`  
-`REST API` `Socket.IO` `JWT Authorization` `Redis`
-
-### Databases, Auth & Analytics
-
-`PostgreSQL` `MySQL` `MariaDB` `SQLite`  
-`Prisma` `Sequelize` `Supabase` `Clerk` `PostHog`
-
-### Data & Automation
-
-`Python` `Pandas` `NumPy` `ETL Pipelines` `Data Processing`  
-`Parquet` `SQLite Optimization` `Dashboarding`
-
-### Dev & Tools
-
-`Git` `Docker` `CI/CD` `EAS` `Jest` `Nginx`  
-`AWS` `Render` `Cursor` `Codex` `Bash`
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `TypeScript` `React` `Next.js` `Angular` `Tailwind CSS` `shadcn/ui` `Ant Design` `D3.js` |
+| **Mobile** | `React Native` `Expo` `EAS` `NativeWind` |
+| **Backend** | `Node.js` `Nest.js` `Express.js` `Python` `FastAPI` `Flask` `REST API` `Socket.IO` |
+| **Database / Auth** | `PostgreSQL` `MySQL` `MariaDB` `SQLite` `Prisma` `Sequelize` `Supabase` `Clerk` |
+| **Data / Analytics** | `Pandas` `NumPy` `ETL Pipelines` `Parquet` `PostHog` `Dashboarding` |
+| **DevOps & Tools** | `Docker` `Git` `CI/CD` `Jest` `Nginx` `AWS` `Render` `Bash` |
 
 ---
 
-## Featured work
+### 🚀 Featured Work
 
-### Mobile apps
-
-I build Android apps with React Native and Expo, focusing on polished UI behavior, offline-friendly architecture, secure storage, analytics, and reliable release pipelines.
-
-### Data-heavy systems
-
-I enjoy building tools that turn large, messy datasets into fast, usable products — including ETL pipelines, optimized databases, and clean dashboards.
-
-### SaaS products
-
-I build full-stack SaaS platforms with modern authentication, relational databases, backend services, and production deployment workflows.
+- 📱 **Mobile apps** — React Native + Expo apps with auth, sync, analytics, push notifications, i18n, and Google Play releases
+- 🧾 **Data tools** — Python ETL pipeline processing **19.3M+ FAERS reports** into an optimized SQLite database
+- 💸 **SaaS platforms** — Full-stack products with Next.js, Prisma, PostgreSQL, Clerk, and smart PDF-processing services
+- 🏢 **Enterprise systems** — Production apps used across **100+ international service centers**
 
 ---
 
-## Languages
+### 🌍 Languages
 
-- English — C1
-- Russian — C2
-- German — Learning
-- Hindi — Learning
-
----
-
-## Contact
-
-- Email: [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)
-- Website: [egorkabantsov.vercel.app](https://egorkabantsov.vercel.app)
-- LinkedIn: [linkedin.com/in/egorkabantsov](https://www.linkedin.com/in/egorkabantsov)
-- Telegram: [t.me/egorkabantsov](https://t.me/egorkabantsov)
+- 🇬🇧 English — C1
+- 🇷🇺 Russian — C2
+- 🇩🇪 German — learning
+- 🇮🇳 Hindi — learning
 
 ---
 
-_Always building practical tools that solve real problems._
+### 📫 Connect with me
+
+- **Portfolio:** [egorkabantsov.vercel.app](https://egorkabantsov.vercel.app)
+- **LinkedIn:** [linkedin.com/in/egorkabantsov](https://www.linkedin.com/in/egorkabantsov)
+- **Telegram:** [t.me/egorkabantsov](https://t.me/egorkabantsov)
+- **Email:** [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)
+
+---
+
+_✨ Building practical tools that solve real problems._

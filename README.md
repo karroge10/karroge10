@@ -1,6 +1,6 @@
 # Hi there, I'm Egor Kabantsov 👋
 
-**Full Stack Software Engineer** based in Tbilisi, Georgia 🇬🇪  
+**Full Stack Software Engineer** based in Tbilisi, Georgia  
 I build web apps, mobile apps, APIs, SaaS products, dashboards, and tools that stay maintainable after real users start depending on them.
 
 <p align="left">
@@ -58,10 +58,9 @@ I'm a **Full Stack Software Engineer** with 5+ years of experience building prod
 
 ### 🌍 Languages
 
-- 🇬🇧 English — C1
-- 🇷🇺 Russian — C2
-- 🇩🇪 German — learning
-- 🇮🇳 Hindi — learning
+### 🌍 Languages
+
+`English C1` · `Russian C2` · `German — learning` · `Hindi — learning`
 
 ---
 

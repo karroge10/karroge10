@@ -58,8 +58,6 @@ I'm a **Full Stack Software Engineer** with 5+ years of experience building prod
 
 ### 🌍 Languages
 
-### 🌍 Languages
-
 `English C1` · `Russian C2` · `German — learning` · `Hindi — learning`
 
 ---

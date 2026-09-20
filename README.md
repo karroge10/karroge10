@@ -30,7 +30,7 @@ I'm a software engineer with **6+ years of experience** building web, mobile, ba
 * 🎓 Built a React/Nest.js training platform used by **10k+ users**
 * 📱 Shipped Android apps with **React Native, Expo, Kotlin, and Jetpack Compose**
 * 🧠 Integrated **Gemini and DeepSeek** into product features
-* 📊 Built data pipelines over **19.3M+ FAERS medical reports**
+* 📊 Built data pipelines over **20M+ FAERS medical reports**
 * 🌎 Open to remote roles and relocation
 
 ---

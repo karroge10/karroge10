@@ -1,7 +1,8 @@
-# Hi there, I'm Egor Kabantsov 👋
+# Hi, I'm Egor Kabantsov 👋
 
-**Full Stack Software Engineer** based in Tbilisi, Georgia  
-I build web apps, mobile apps, APIs, SaaS products, dashboards, and maintainable tools for real users.
+**Full Stack & Applied AI Engineer** based in Belgrade, Serbia.
+
+I build production web, mobile, data, and AI systems with a focus on TypeScript, Python, scalable backend services, and practical AI integrations.
 
 <p align="left">
   <a href="https://egorkabantsov.vercel.app">
@@ -20,39 +21,48 @@ I build web apps, mobile apps, APIs, SaaS products, dashboards, and maintainable
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About
 
-I'm a **Full Stack Software Engineer** with 5+ years of experience building production web and mobile applications.
+I'm a software engineer with **6+ years of experience** building web, mobile, backend, data, and AI-powered products.
 
-- 🏢 Currently building and maintaining enterprise apps at **Vertikal**
-- 🌍 Scaled systems used across **100+ international service centers**
-- 🎓 Built a training platform with a loyalty system used by **10k+ users**
-- 🚀 Founder & Developer at **NoKo Labs**
-- 📱 Shipped Android apps to **Google Play** with React Native + Expo
-- 🧠 Interested in clean UI behavior, scalable systems, data-heavy tools, and practical automation
-- 🌎 Open to **remote roles** and **relocation**, especially EU-focused opportunities
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | `TypeScript` `React` `Next.js` `Angular` `Tailwind CSS` `shadcn/ui` `Ant Design` `D3.js` |
-| **Mobile** | `React Native` `Expo` `EAS` `NativeWind` |
-| **Backend** | `Node.js` `Nest.js` `Express.js` `Python` `FastAPI` `Flask` `REST API` `Socket.IO` |
-| **Database / Auth** | `PostgreSQL` `MySQL` `MariaDB` `SQLite` `Prisma` `Sequelize` `Supabase` `Clerk` |
-| **Data / Analytics** | `Pandas` `NumPy` `ETL Pipelines` `Parquet` `PostHog` `Dashboarding` |
-| **DevOps & Tools** | `Docker` `Git` `CI/CD` `Jest` `Nginx` `AWS` `Render` `Bash` |
+* 🏢 Build production systems used across **100+ international service centers**
+* 🤖 Implemented **AI-assisted CV analysis and candidate scoring** for an internal recruiting platform
+* 🎓 Built a React/Nest.js training platform used by **10k+ users**
+* 📱 Shipped Android apps with **React Native, Expo, Kotlin, and Jetpack Compose**
+* 🧠 Integrated **Gemini and DeepSeek** into production features
+* 📊 Built data pipelines over **19.3M+ FAERS medical reports**
+* 🌎 Open to remote roles and relocation
 
 ---
 
-### 🚀 Featured Work
+### 🛠️ Tech Stack
 
-- 📱 **Mobile apps** — React Native + Expo apps with auth, sync, analytics, push notifications, i18n, and Google Play releases
-- 🧾 **Data tools** — Python ETL pipeline processing **19.3M+ FAERS reports** into an optimized SQLite database
-- 💸 **SaaS platforms** — Full-stack products with Next.js, Prisma, PostgreSQL, Clerk, and smart PDF-processing services
-- 🏢 **Enterprise systems** — Production apps used across **100+ international service centers**
+| Category                   | Technologies                                                                                    |
+| :------------------------- | :---------------------------------------------------------------------------------------------- |
+| **Frontend**               | `TypeScript` `React` `Next.js` `Angular` `Vite` `Tailwind CSS` `shadcn/ui` `Ant Design` `D3.js` |
+| **Mobile**                 | `React Native` `Expo` `EAS` `Kotlin` `Jetpack Compose`                                          |
+| **Backend**                | `Node.js` `Nest.js` `Express.js` `Python` `FastAPI` `Flask` `REST` `Socket.IO` `RabbitMQ`       |
+| **AI / ML**                | `PyTorch` `Scikit-learn` `Pandas` `NumPy` `LLM Integrations` `RAG` `Gemini API` `DeepSeek API`  |
+| **Database / Auth**        | `PostgreSQL` `MySQL` `MariaDB` `SQLite` `Prisma` `Sequelize` `Supabase` `Clerk`                 |
+| **Cloud / Infrastructure** | `AWS` `Cloudflare` `R2` `Docker` `Nginx` `CI/CD`                                                |
+| **Testing / Tooling**      | `Git` `Jest` `Vitest` `PostHog` `Bash` `Claude` `Cursor` `Codex`                                |
+| **Payments**               | `Stripe`                                                                                        |
+
+---
+
+### 🚀 Selected Work
+
+**AI Recruiting Platform**
+Internal recruiting system with job-board integrations, candidate pipelines, analytics, scoring, and AI-assisted CV analysis.
+
+**Healthcare Data & AI**
+Python data pipeline processing **19.3M+ FAERS reports spanning 20+ years**, with analytics and ongoing AI/LLM work around medical safety data.
+
+**Mobile Products**
+Android apps built with React Native, Expo, Kotlin, and Jetpack Compose, including authentication, sync, analytics, subscriptions, image processing, notifications, localization, and Gemini/DeepSeek integrations.
+
+**Enterprise Platforms**
+React and Node.js systems used across **100+ international service centers**, including backend and frontend performance work that reduced key workflow load times by roughly **40%**.
 
 ---
 
@@ -62,11 +72,6 @@ I'm a **Full Stack Software Engineer** with 5+ years of experience building prod
 
 ---
 
-### 📫 Connect with me
+### 📫 Contact
 
-- **Portfolio:** [egorkabantsov.vercel.app](https://egorkabantsov.vercel.app)
-- **LinkedIn:** [linkedin.com/in/egorkabantsov](https://www.linkedin.com/in/egorkabantsov)
-- **Telegram:** [t.me/egorkabantsov](https://t.me/egorkabantsov)
-- **Email:** [egorkabantsov@gmail.com](mailto:egorkabantsov@gmail.com)
-
----
+[Portfolio](https://egorkabantsov.vercel.app) · [LinkedIn](https://www.linkedin.com/in/egorkabantsov) · [Telegram](https://t.me/egorkabantsov) · [Email](mailto:egorkabantsov@gmail.com)

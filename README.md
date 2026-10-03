@@ -30,7 +30,7 @@ I'm a software engineer with **6+ years of experience** building web, mobile, ba
 * 🎓 Built a React/Nest.js training platform used by **10k+ users**
 * 📱 Shipped Android apps with **React Native, Expo, Kotlin, and Jetpack Compose**
 * 🧠 Integrated **Gemini and DeepSeek** into product features
-* 📊 Built data pipelines over **20M+ FAERS medical reports**
+* 🧪 Built [MediLens](https://medilense.pages.dev): a public drug-safety site with an **LLM agent over 20M+ FDA reports**, RAG, LoRA fine-tuning and 3D drug views
 * 🌎 Open to remote roles and relocation
 
 ---
@@ -39,12 +39,12 @@ I'm a software engineer with **6+ years of experience** building web, mobile, ba
 
 | Category                   | Technologies                                                                                    |
 | :------------------------- | :---------------------------------------------------------------------------------------------- |
-| **Frontend**               | `TypeScript` `React` `Next.js` `Angular` `Vite` `Tailwind CSS` `shadcn/ui` `Ant Design` `D3.js` |
+| **Frontend**               | `TypeScript` `React` `Next.js` `Angular` `Vite` `Tailwind CSS` `shadcn/ui` `Ant Design` `D3.js` `3Dmol.js` |
 | **Mobile**                 | `React Native` `Expo` `EAS` `Kotlin` `Jetpack Compose`                                          |
 | **Backend**                | `Node.js` `Nest.js` `Express.js` `Python` `FastAPI` `Flask` `REST` `Socket.IO` `RabbitMQ`       |
-| **AI / ML**                | `PyTorch` `Scikit-learn` `Pandas` `NumPy` `RAG` `LLM Integrations` `Gemini API` `DeepSeek API`  |
+| **AI / ML**                | `PyTorch` `Scikit-learn` `LightGBM` `Hugging Face` `LoRA` `RAG` `Embeddings` `Tool Calling` `LLM Evals` `MLflow` `Ollama` `Pandas` `NumPy` `Gemini API` `DeepSeek API` |
 | **Database / Auth**        | `PostgreSQL` `MySQL` `MariaDB` `SQLite` `Prisma` `Sequelize` `Supabase` `Clerk`                 |
-| **Cloud / Infrastructure** | `AWS` `Cloudflare` `R2` `Docker` `Nginx` `CI/CD`                                                |
+| **Cloud / Infrastructure** | `AWS` `Cloudflare` `Workers AI` `R2` `Docker` `Nginx` `CI/CD`                                   |
 | **Testing / Tools**        | `Git` `Jest` `Vitest` `PostHog` `Bash` `Claude` `Cursor` `Codex`                                |
 | **Payments**               | `Stripe`                                                                                        |
 
@@ -52,17 +52,17 @@ I'm a software engineer with **6+ years of experience** building web, mobile, ba
 
 ### 🚀 Selected Work
 
-* 🤖 **AI systems** — CV analysis, candidate scoring, LLM integrations, structured outputs, RAG, and AI-assisted workflows
-* 📱 **Mobile apps** — React Native, Expo, Kotlin, and Jetpack Compose apps with subscriptions, analytics, image processing, and Gemini/DeepSeek integrations
-* 🧾 **Healthcare data** — Python pipelines processing **19.3M+ FAERS reports** with analytics and AI-assisted querying
-* 💸 **Fintech & SaaS** — Next.js, PostgreSQL, Stripe, financial workflows, and Python-based document processing
-* 🏢 **Enterprise systems** — Production platforms used across **100+ international service centers** and by **10k+ users**
+* 🤖 **AI systems**: CV analysis, candidate scoring, LLM integrations, structured outputs, RAG, and AI-assisted workflows
+* 📱 **Mobile apps**: React Native, Expo, Kotlin, and Jetpack Compose apps with subscriptions, analytics, image processing, and Gemini/DeepSeek integrations
+* 🧾 **Healthcare AI**: [MediLens](https://medilense.pages.dev), an LLM agent with tool calling, RAG over FDA drug labels, guardrails and evals over **20M+ FAERS reports**, a LoRA-fine-tuned Qwen2.5-1.5B for drug name resolution, ranking models tracked in MLflow, and 3D views of each drug and its protein target
+* 💸 **Fintech & SaaS**: Next.js, PostgreSQL, Stripe, financial workflows, and Python-based document processing
+* 🏢 **Enterprise systems**: Production platforms used across **100+ international service centers** and by **10k+ users**
 
 ---
 
 ### 🌍 Languages
 
-`English C1` · `Russian C2` · `German — learning` · `Hindi — learning`
+`English C1` · `Russian C2` · `German, learning` · `Hindi, learning`
 
 ---
 

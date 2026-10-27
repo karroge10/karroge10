@@ -30,7 +30,7 @@ I'm a software engineer with **6+ years of experience** building web, mobile, ba
 * 🎓 Built a React/Nest.js training platform used by **10k+ users**
 * 📱 Shipped Android apps with **React Native, Expo, Kotlin, and Jetpack Compose**
 * 🧠 Integrated **Gemini and DeepSeek** into product features
-* 🧪 Built [MediLens](https://medilense.pages.dev): a public drug-safety site with an **LLM agent over 20M+ FDA reports**, RAG, LoRA fine-tuning and 3D drug views
+* 🧪 Built [MediLense](https://medilense.pages.dev): a public drug-safety site with an **LLM agent over 20M+ FDA reports**, RAG, LoRA fine-tuning and 3D drug views
 * 🌎 Open to remote roles and relocation
 
 ---
@@ -54,7 +54,7 @@ I'm a software engineer with **6+ years of experience** building web, mobile, ba
 
 * 🤖 **AI systems**: CV analysis, candidate scoring, LLM integrations, structured outputs, RAG, and AI-assisted workflows
 * 📱 **Mobile apps**: React Native, Expo, Kotlin, and Jetpack Compose apps with subscriptions, analytics, image processing, and Gemini/DeepSeek integrations
-* 🧾 **Healthcare AI**: [MediLens](https://medilense.pages.dev), an LLM agent with tool calling, RAG over FDA drug labels, guardrails and evals over **20M+ FAERS reports**, a LoRA-fine-tuned Qwen2.5-1.5B for drug name resolution, ranking models tracked in MLflow, and 3D views of each drug and its protein target
+* 🧾 **Healthcare AI**: [MediLense](https://medilense.pages.dev), an LLM agent with tool calling, RAG over FDA drug labels, guardrails and evals over **20M+ FAERS reports**, a LoRA-fine-tuned Qwen2.5-1.5B for drug name resolution, ranking models tracked in MLflow, and 3D views of each drug and its protein target
 * 💸 **Fintech & SaaS**: Next.js, PostgreSQL, Stripe, financial workflows, and Python-based document processing
 * 🏢 **Enterprise systems**: Production platforms used across **100+ international service centers** and by **10k+ users**
 
